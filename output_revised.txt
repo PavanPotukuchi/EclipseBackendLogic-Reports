@@ -1,0 +1,6 @@
+
+testAddDonation=true
+testGetDonationByDonorId=true
+testUpdateDonor=true
+testGetDonorByNgoId=true
+testRegisterDonor=true

@@ -1,0 +1,7 @@
+
+testAddDonationInvalidDonationAmountException=true
+testAddDonationInvalidDataException=true
+testAddDonationInvalidDonationDateException=true
+testRegisterDonorInvalidDataException=true
+testRegisterDonorNgoInvalidEstablishedDateException=true
+testUpdateDonorInvalidDataException=true
